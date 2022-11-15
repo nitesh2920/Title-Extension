@@ -1,0 +1,15 @@
+{
+    "name":"Title of current tab",
+    "description":"This extension will show you á title of a current tab",
+    "version":"0.0.1",
+    
+    "manifest_version":3,
+
+    "action":{
+        "default_icon":"exicon.png",
+        "default_popup":"popup.html"
+        },
+
+       "permissions":["tabs"] 
+
+}
